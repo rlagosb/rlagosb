@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rlagosb
+- 👋 Hi, I’m René Lagos-Barrios
 - 🌱 I’m currently learning public health at University of Chile
 - 💞️ I’m looking to collaborate on operations research applications in healthcare
 - 📫 How to reach me rlagos@uchile.cl
