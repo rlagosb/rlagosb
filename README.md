@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rlagosb
-- 🌱 I’m currently learning public health
+- 🌱 I’m currently learning public health at University of Chile
 - 💞️ I’m looking to collaborate on operations research applications in healthcare
-- 📫 How to reach me rlagos@ing.uchile.cl
+- 📫 How to reach me rlagos@uchile.cl
 
 <!---
 rlagosb/rlagosb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
